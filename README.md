@@ -1,7 +1,8 @@
-# tt
+
+# Music Library
 
 ## Description
-t
+A showcase of my musical productions. Let me take you on an audio journey
 
 ## Table of Contents
 - [Description](#description)
@@ -13,23 +14,23 @@ t
 - [Questions](#questions)
 
 ## Installation
-t
+Press play on the screen
 
 ## Usage
-t
+Everyday
 
 ## License
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-This project is licensed under the Apache License 2.0.
+This project is licensed under the MIT License.
 
 ## Contributing
-t
+toussaintphillips@gmail.com
 
 ## Tests
-t
+Press play and listen
 
 ## Questions
 For any questions or feedback, feel free to reach out:
-- GitHub: [t](https://github.com/t)
-- Email: t
+- GitHub: [ToussaintPhillips](https://github.com/ToussaintPhillips)
+- Email: toussaintphillips@gmail.com
