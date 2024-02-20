@@ -1,8 +1,7 @@
-
-# Music Library
+# My Music Library
 
 ## Description
-A showcase of my musical productions. Let me take you on an audio journey
+A repository of my music
 
 ## Table of Contents
 - [Description](#description)
@@ -14,7 +13,7 @@ A showcase of my musical productions. Let me take you on an audio journey
 - [Questions](#questions)
 
 ## Installation
-Press play on the screen
+Press play on the screen 
 
 ## Usage
 Everyday
@@ -25,7 +24,7 @@ Everyday
 This project is licensed under the MIT License.
 
 ## Contributing
-toussaintphillips@gmail.com
+Toussaint
 
 ## Tests
 Press play and listen
